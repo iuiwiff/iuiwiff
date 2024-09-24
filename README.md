@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=g2m2n2)](https://solved.ac/g2m2n2)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=iuiwiff)](https://solved.ac/iuiwiff)
 
 <!--
 **iuiwiff/iuiwiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
